@@ -1,0 +1,32 @@
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Files\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Files\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\ResolveAssemblyReference.cache
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\ResolveAssemblyReference.cache
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+I:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+I:\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+I:\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+H:\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+H:\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\ResolveAssemblyReference.cache
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+H:\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
