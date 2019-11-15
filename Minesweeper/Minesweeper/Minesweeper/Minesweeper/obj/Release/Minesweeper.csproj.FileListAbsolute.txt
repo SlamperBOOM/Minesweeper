@@ -1,0 +1,16 @@
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\bin\Release\Minesweeper.exe
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\ResolveAssemblyReference.cache
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\Minesweeper.Form1.resources
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\slava\AppData\Local\Temporary Projects\Minesweeper\obj\Release\Minesweeper.pdb
+C:\Files\Minesweeper\Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+C:\Files\Minesweeper\Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\ResolveAssemblyReference.cache
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\Minesweeper.Form1.resources
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.Cache
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+C:\Files\Minesweeper\Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb
